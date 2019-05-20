@@ -1,0 +1,5 @@
+python services.py <user_id> <list of services for "User Routes by Service">
+
+Ex: python services.py 42 ["Strava","Komoot"]
+
+
